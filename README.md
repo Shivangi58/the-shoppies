@@ -1,2 +1,2 @@
 # the-shoppies
-The shopify nomination challenge 
+The shopify nomination challenge for Web developer 
